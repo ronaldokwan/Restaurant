@@ -1,0 +1,9 @@
+npx sequelize-cli model:generate --name User --attributes username:string,email:string,password:string,role:string,phoneNumber:string,address:string
+
+npx sequelize-cli model:generate --name Category --attributes name:string
+
+npx sequelize-cli model:generate --name Cuisine --attributes name:string,description:string,price:integer,imgUrl:string,categoryId:integer,authorId:integer
+
+npx sequelize-cli seed:generate --name User
+npx sequelize-cli seed:generate --name Category
+npx sequelize-cli seed:generate --name Cuisine

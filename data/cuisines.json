@@ -1,0 +1,218 @@
+[
+  {
+    "name": "Delicious Dish 1",
+    "description": "A mouthwatering dish created by author 1.",
+    "price": 15,
+    "imgUrl": "http://example.com/image3.jpg",
+    "categoryId": 1,
+    "authorId": 1
+  },
+  {
+    "name": "Tasty Treat 1",
+    "description": "An exquisite creation by author 1.",
+    "price": 12,
+    "imgUrl": "http://example.com/image4.jpg",
+    "categoryId": 2,
+    "authorId": 2
+  },
+  {
+    "name": "Savory Surprise 1",
+    "description": "A delightful surprise from author 1.",
+    "price": 18,
+    "imgUrl": "http://example.com/image5.jpg",
+    "categoryId": 1,
+    "authorId": 1
+  },
+  {
+    "name": "Scrumptious Selection 1",
+    "description": "An irresistible choice crafted by author 1.",
+    "price": 22,
+    "imgUrl": "http://example.com/image6.jpg",
+    "categoryId": 2,
+    "authorId": 2
+  },
+  {
+    "name": "Flavorful Feast 1",
+    "description": "A feast for the senses prepared by author 1.",
+    "price": 17,
+    "imgUrl": "http://example.com/image7.jpg",
+    "categoryId": 1,
+    "authorId": 1
+  },
+  {
+    "name": "Exquisite Eats 1",
+    "description": "Exquisite culinary delights from author 1.",
+    "price": 25,
+    "imgUrl": "http://example.com/image8.jpg",
+    "categoryId": 2,
+    "authorId": 1
+  },
+  {
+    "name": "Heavenly Dish 1",
+    "description": "A heavenly creation by author 1.",
+    "price": 19,
+    "imgUrl": "http://example.com/image9.jpg",
+    "categoryId": 1,
+    "authorId": 2
+  },
+  {
+    "name": "Gourmet Glee 1",
+    "description": "Indulge in gourmet delights from author 1.",
+    "price": 28,
+    "imgUrl": "http://example.com/image10.jpg",
+    "categoryId": 2,
+    "authorId": 1
+  },
+  {
+    "name": "Delectable Delight 1",
+    "description": "A delectable delight created by author 1.",
+    "price": 16,
+    "imgUrl": "http://example.com/image11.jpg",
+    "categoryId": 1,
+    "authorId": 1
+  },
+  {
+    "name": "Sumptuous Surprise 1",
+    "description": "A sumptuous surprise from author 1.",
+    "price": 21,
+    "imgUrl": "http://example.com/image12.jpg",
+    "categoryId": 2,
+    "authorId": 1
+  },
+  {
+    "name": "Yummy Creation 1",
+    "description": "A yummy creation by author 1.",
+    "price": 14,
+    "imgUrl": "http://example.com/image13.jpg",
+    "categoryId": 1,
+    "authorId": 1
+  },
+  {
+    "name": "Divine Dish 1",
+    "description": "Indulge in divine flavors crafted by author 1.",
+    "price": 23,
+    "imgUrl": "http://example.com/image14.jpg",
+    "categoryId": 2,
+    "authorId": 1
+  },
+  {
+    "name": "Mouthwatering Masterpiece 1",
+    "description": "A mouthwatering masterpiece from author 1.",
+    "price": 20,
+    "imgUrl": "http://example.com/image15.jpg",
+    "categoryId": 1,
+    "authorId": 2
+  },
+  {
+    "name": "Luxurious Cuisine 1",
+    "description": "Luxurious cuisine crafted by author 1.",
+    "price": 30,
+    "imgUrl": "http://example.com/image16.jpg",
+    "categoryId": 2,
+    "authorId": 1
+  },
+  {
+    "name": "Sensational Savor 1",
+    "description": "Experience sensational flavors by author 1.",
+    "price": 24,
+    "imgUrl": "http://example.com/image17.jpg",
+    "categoryId": 1,
+    "authorId": 1
+  },
+  {
+    "name": "Gastronomic Delight 1",
+    "description": "Delight your senses with gastronomic wonders by author 1.",
+    "price": 26,
+    "imgUrl": "http://example.com/image18.jpg",
+    "categoryId": 2,
+    "authorId": 1
+  },
+  {
+    "name": "Sizzling Sensation 1",
+    "description": "A sizzling sensation from author 1.",
+    "price": 27,
+    "imgUrl": "http://example.com/image19.jpg",
+    "categoryId": 1,
+    "authorId": 1
+  },
+  {
+    "name": "Elegant Entree 1",
+    "description": "An elegant entree crafted by author 1.",
+    "price": 29,
+    "imgUrl": "http://example.com/image20.jpg",
+    "categoryId": 2,
+    "authorId": 1
+  },
+  {
+    "name": "Mouthwatering Medley 1",
+    "description": "A mouthwatering medley from author 1.",
+    "price": 31,
+    "imgUrl": "http://example.com/image21.jpg",
+    "categoryId": 1,
+    "authorId": 1
+  },
+  {
+    "name": "Gourmet Glamour 1",
+    "description": "Indulge in gourmet glamour by author 1.",
+    "price": 33,
+    "imgUrl": "http://example.com/image22.jpg",
+    "categoryId": 2,
+    "authorId": 1
+  },
+  {
+    "name": "Divine Delicacy 1",
+    "description": "A divine delicacy created by author 1.",
+    "price": 32,
+    "imgUrl": "http://example.com/image23.jpg",
+    "categoryId": 1,
+    "authorId": 2
+  },
+  {
+    "name": "Exotic Elegance 1",
+    "description": "Experience exotic elegance from author 1.",
+    "price": 35,
+    "imgUrl": "http://example.com/image24.jpg",
+    "categoryId": 2,
+    "authorId": 1
+  },
+  {
+    "name": "Savory Symphony 1",
+    "description": "A savory symphony crafted by author 1.",
+    "price": 34,
+    "imgUrl": "http://example.com/image25.jpg",
+    "categoryId": 1,
+    "authorId": 1
+  },
+  {
+    "name": "Culinary Charisma 1",
+    "description": "Indulge in culinary charisma by author 1.",
+    "price": 37,
+    "imgUrl": "http://example.com/image26.jpg",
+    "categoryId": 2,
+    "authorId": 2
+  },
+  {
+    "name": "Tantalizing Tastes 1",
+    "description": "Delight in tantalizing tastes from author 1.",
+    "price": 36,
+    "imgUrl": "http://example.com/image27.jpg",
+    "categoryId": 1,
+    "authorId": 1
+  },
+  {
+    "name": "Gastronomic Genius 1",
+    "description": "Discover gastronomic genius by author 1.",
+    "price": 39,
+    "imgUrl": "http://example.com/image28.jpg",
+    "categoryId": 2,
+    "authorId": 1
+  },
+  {
+    "name": "Flavor Fusion 1",
+    "description": "Experience a flavor fusion from author 1.",
+    "price": 38,
+    "imgUrl": "http://example.com/image29.jpg",
+    "categoryId": 1,
+    "authorId": 2
+  }
+]

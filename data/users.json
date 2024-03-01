@@ -1,0 +1,18 @@
+[
+  {
+    "username": "exampleUser1",
+    "email": "exampleUser1@email.com",
+    "password": "examplePassword1",
+    "role": "admin",
+    "phoneNumber": "1234567890",
+    "address": "123 Example Street"
+  },
+  {
+    "username": "exampleUser2",
+    "email": "exampleUser2@email.com",
+    "password": "examplePassword2",
+    "role": "staff",
+    "phoneNumber": "0987654321",
+    "address": "456 Another Street"
+  }
+]
