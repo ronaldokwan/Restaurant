@@ -1,5 +1,5 @@
 const { verifyToken } = require("../helpers/jwt");
-const { User } = require("../models");
+const { User, Cuisine } = require("../models");
 const multer = require("multer");
 
 async function authentication(req, res, next) {
@@ -22,7 +22,10 @@ async function authentication(req, res, next) {
 }
 async function authorization(req, res, next) {
   try {
-    if (req.user.role !== "admin" && +req.params.id !== +req.user.id) {
+    const { id } = req.params;
+    const data = await Cuisine.findByPk(id);
+    if (!data) throw { name: "notFound" };
+    if (req.user.role !== "admin" && data.UserId !== req.user.id) {
       throw { name: "forbidden" };
     }
     next();

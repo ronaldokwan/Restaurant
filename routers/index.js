@@ -15,7 +15,7 @@ router.get("/pub/cuisines/:id", Controller.pubCuisineId);
 router.post("/login", Controller.login);
 
 router.use(authentication);
-router.post("/add-user", Controller.addUser);
+router.post("/add-user", authorization, Controller.addUser);
 
 router.post("/cuisines", Controller.createCuisine);
 router.get("/cuisines", Controller.readCuisine);
